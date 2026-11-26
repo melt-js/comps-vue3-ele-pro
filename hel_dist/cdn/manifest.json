@@ -1,6 +1,6 @@
 {
   "name": "@melt-js/comps-vue3-ele-pro",
-  "version": "2026.11.22-1",
+  "version": "2026.11.24-8",
   "entries": {
     "@melt-js/comps-vue3-ele-pro": {
       "specifier": "@melt-js/comps-vue3-ele-pro",
@@ -9,6 +9,18 @@
       "exports": [
         "App",
         "ProButton",
+        "ProColumnSetting",
+        "ProDrawer",
+        "ProExportButton",
+        "ProForm",
+        "ProImportDialog",
+        "ProPage",
+        "ProRowActions",
+        "ProSearch",
+        "ProSplitter",
+        "ProTable",
+        "ProToolbar",
+        "ProTree",
         "default",
         "dtlib"
       ]
